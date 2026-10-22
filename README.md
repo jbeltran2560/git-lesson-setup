@@ -1,2 +1,2 @@
 # git-lesson-setup
-Synchornization practice between Git and GitHub
+Synchronization practice between Git and GitHub
